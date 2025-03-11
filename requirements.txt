@@ -6,4 +6,8 @@ pip
 python-dotenv
 tqdm
 typer
+torchvision
+ipython
+ipykernel
+jupyter
 -e .
