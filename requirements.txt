@@ -7,6 +7,9 @@ python-dotenv
 tqdm
 typer
 torchvision
+torch
+numpy
+pillow
 ipython
 ipykernel
 jupyter
