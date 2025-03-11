@@ -13,4 +13,7 @@ pillow
 ipython
 ipykernel
 jupyter
+matplotlib
+pandas
+tensorboard
 -e .
